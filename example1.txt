@@ -1,0 +1,16 @@
+// Maximum Matrix
+6 5 3
+4 2 1
+5 1 2
+1 0 2
+5 2 3
+
+// Allocation Matrix
+1 0 2
+3 1 0
+0 1 1
+1 0 1
+1 0 2
+
+// Available Resources
+7 5 7
